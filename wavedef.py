@@ -32,6 +32,7 @@ SUPPORTED_DEVICES = set((
     'fy6600',
     'fy6800',
     'fy6900',
+    'fy8300',
 ))
 
 # For consistency and better descriptions, all waveform names must be
